@@ -10,7 +10,7 @@ code collaboration, measurable code quality and I do believe in Open Source. �
 
 #### 🎁 Recent Releases
 {{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🏗️ Recent Pull Requests
@@ -20,7 +20,7 @@ code collaboration, measurable code quality and I do believe in Open Source. �
 
 #### ⭐ Recent Faves, Reminders and Check-Out-Laters
 {{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
 #### 📫 Get in touch!
