@@ -13,10 +13,10 @@ code collaboration and measurable code quality. I do still believe in Open Sourc
 
 #### 🎁 Recent Releases
 
-- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.4.0](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.4.0)) - Project builder template for TYPO3 CMS projects with configuration for DDEV and Deployer
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([1.6.0](https://github.com/CPS-IT/project-builder/releases/tag/1.6.0)) - Composer package to create new projects from project templates
-- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.1](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.1)) - Composer library to download and extract Frontend assets in Composer projects
-- [mteu/skribbl-wordlists](https://github.com/mteu/skribbl-wordlists) ([1.0.0](https://github.com/mteu/skribbl-wordlists/releases/tag/1.0.0)) - Custom wordlists for skribbl.io
+- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.4.0](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.4.0))
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([1.6.0](https://github.com/CPS-IT/project-builder/releases/tag/1.6.0))
+- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.1](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.1))
+- [mteu/skribbl-wordlists](https://github.com/mteu/skribbl-wordlists) ([1.0.0](https://github.com/mteu/skribbl-wordlists/releases/tag/1.0.0))
 
 #### 🏗️ Recent Pull Requests
 
