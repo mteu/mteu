@@ -5,7 +5,7 @@ code collaboration, measurable code quality and I do believe in Open Source. �
 
 #### 🛠️ What I've been up to lately
 
-- [mteu/shrug](https://github.com/mteu/shrug) - Personal project template for the most frequent composer-based scenarios (4 days ago)
+- [mteu/shrug](https://github.com/mteu/shrug) - Personal project template for the most frequent composer-based scenarios (5 days ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) - Composer package to create new projects from project templates (2 weeks ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) - Project builder template for TYPO3 CMS projects with configuration for DDEV and Deployer (1 month ago)
 - [mteu/skribbl-wordlists](https://github.com/mteu/skribbl-wordlists) - Custom wordlists for skribbl.io (1 month ago)
@@ -20,7 +20,7 @@ code collaboration, measurable code quality and I do believe in Open Source. �
 
 #### 🏗️ Recent Pull Requests
 
-- [[TASK] add rector](https://github.com/mteu/shrug/pull/3) on [mteu/shrug](https://github.com/mteu/shrug) (5 days ago)
+- [[TASK] add rector](https://github.com/mteu/shrug/pull/3) on [mteu/shrug](https://github.com/mteu/shrug) (6 days ago)
 - [Add some culture to the list](https://github.com/ngerakines/commitment/pull/259) on [ngerakines/commitment](https://github.com/ngerakines/commitment) (2 weeks ago)
 - [[TASK] Retire ChangeLog](https://github.com/CPS-IT/project-builder/pull/71) on [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (1 month ago)
 - [[TASK] Use TYPO3&#39;s default preset for core extensions](https://github.com/CPS-IT/typo3-project-template/pull/14) on [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) (1 month ago)
