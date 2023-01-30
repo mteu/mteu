@@ -3,14 +3,6 @@
 I'm Martin Adler, a Berlin 🇪🇺 based PHP developer with a main focus on TYPO3 and Symfony projects. I thrive on
 code collaboration and measurable code quality. I do still believe in Open Source. 💛
 
-#### 🛠️ What I've been up to lately
-
-- [mteu/shrug](https://github.com/mteu/shrug) - Personal project template for the most frequent composer-based scenarios (today)
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) - Composer package to create new projects from project templates (2 weeks ago)
-- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) - Project builder template for TYPO3 CMS projects with configuration for DDEV and Deployer (1 month ago)
-- [mteu/skribbl-wordlists](https://github.com/mteu/skribbl-wordlists) - Custom wordlists for skribbl.io (1 month ago)
-- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) - Composer library to download and extract Frontend assets in Composer projects (2 months ago)
-
 #### 🎁 Recent Releases
 
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.4.0](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.4.0))
