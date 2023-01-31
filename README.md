@@ -5,8 +5,8 @@ code collaboration and measurable code quality. I do still believe in Open Sourc
 
 #### 🎁 Recent Releases
 
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([1.7.0](https://github.com/CPS-IT/project-builder/releases/tag/1.7.0))
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.4.0](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.4.0))
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([1.6.0](https://github.com/CPS-IT/project-builder/releases/tag/1.6.0))
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.1](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.1))
 - [mteu/skribbl-wordlists](https://github.com/mteu/skribbl-wordlists) ([1.0.0](https://github.com/mteu/skribbl-wordlists/releases/tag/1.0.0))
 
