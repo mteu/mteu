@@ -5,7 +5,7 @@ code collaboration and measurable code quality. I do still believe in Open Sourc
 
 #### 🎁 Recent Releases
 {{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}))
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
 #### 🏗️ Recent Pull Requests
@@ -17,4 +17,3 @@ code collaboration and measurable code quality. I do still believe in Open Sourc
 
 - Fediverse: [@mteu@phpc.social](https://phpc.social/@mteu)
 - Twitter: [@mteu](https://twitter.com/mteu)
-- [LinkedIn](https://www.linkedin.com/in/martintadler/)
