@@ -4,12 +4,12 @@ I'm Martin Adler, a Berlin 🇪🇺 based PHP developer with a main focus on TYP
 code collaboration and measurable code quality. I do still believe in Open Source. 💛
 
 #### 🎁 Recent Releases
-{{range recentReleases 5}}
+{{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
 #### 🏗️ Recent Pull Requests
-{{range recentPullRequests 5}}
+{{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
