@@ -8,11 +8,6 @@ code collaboration and measurable code quality. I do still believe in Open Sourc
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
-#### 🏗️ Recent Pull Requests
-{{range recentPullRequests 3}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### 📫 Get in touch!
 
 - Fediverse: [@mteu@phpc.social](https://phpc.social/@mteu)
