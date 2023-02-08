@@ -11,12 +11,6 @@ code collaboration and measurable code quality. I do still believe in Open Sourc
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.1](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.1), 1 month ago)
 - [mteu/skribbl-wordlists](https://github.com/mteu/skribbl-wordlists) ([1.0.0](https://github.com/mteu/skribbl-wordlists/releases/tag/1.0.0), 1 month ago)
 
-#### 🏗️ Recent Pull Requests
-
-- [[DOCS] Align references with recent changes](https://github.com/mteu/phpstan-galore/pull/4) on [mteu/phpstan-galore](https://github.com/mteu/phpstan-galore) (1 day ago)
-- [[FEATURE] Place a mininmal phpstan.neon](https://github.com/mteu/phpstan-galore/pull/3) on [mteu/phpstan-galore](https://github.com/mteu/phpstan-galore) (1 day ago)
-- [[TASK] initialize project](https://github.com/mteu/phpstan-galore/pull/1) on [mteu/phpstan-galore](https://github.com/mteu/phpstan-galore) (1 day ago)
-
 #### 📫 Get in touch!
 
 - Fediverse: [@mteu@phpc.social](https://phpc.social/@mteu)
