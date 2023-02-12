@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Martin Adler, a Berlin 🇪🇺 based PHP developer with a main focus on TYPO3 and Symfony projects. I thrive on
+I'm Martin. I'm Berlin 🇪🇺 based PHP developer with a main focus on TYPO3 and Symfony projects. I thrive on
 code collaboration and measurable code quality. I do still believe in Open Source. 💛
 
 #### 🎁 Latest Releases
