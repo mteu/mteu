@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Martin. I'm Berlin 🇪🇺 based PHP developer with a main focus on TYPO3 and Symfony projects. I thrive on
-code collaboration and measurable code quality. I do still believe in Open Source. 💛
+code collaboration and measurable code quality. Open Source ftw. 💛
 
 #### 🎁 Latest Releases
 {{range recentReleases 5}}
