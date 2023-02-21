@@ -5,8 +5,8 @@ code collaboration and measurable code quality. Open Source ftw. 💛
 
 #### 🎁 Latest Releases
 
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([1.7.3](https://github.com/CPS-IT/project-builder/releases/tag/1.7.3), 2 days ago)
-- [mteu/phpstan-galore](https://github.com/mteu/phpstan-galore) ([0.1.3](https://github.com/mteu/phpstan-galore/releases/tag/0.1.3), 1 week ago)
+- [mteu/phpstan-galore](https://github.com/mteu/phpstan-galore) ([0.1.4](https://github.com/mteu/phpstan-galore/releases/tag/0.1.4), 1 day ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([1.7.3](https://github.com/CPS-IT/project-builder/releases/tag/1.7.3), 3 days ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.4.0](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.4.0), 3 weeks ago)
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.1](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.1), 1 month ago)
 - [mteu/skribbl-wordlists](https://github.com/mteu/skribbl-wordlists) ([1.0.0](https://github.com/mteu/skribbl-wordlists/releases/tag/1.0.0), 2 months ago)
