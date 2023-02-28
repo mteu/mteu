@@ -9,7 +9,7 @@ code collaboration and measurable code quality. Open Source ftw. 💛
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) ([0.1.0](https://github.com/mteu/zealous-stan/releases/tag/0.1.0), 6 days ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([1.7.4](https://github.com/CPS-IT/project-builder/releases/tag/1.7.4), 1 week ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.4.0](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.4.0), 1 month ago)
-- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.1](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.1), 1 month ago)
+- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([0.8.6](https://github.com/eliashaeussler/cache-warmup/releases/tag/0.8.6), 1 month ago)
 
 #### 📫 Get in touch!
 
