@@ -5,7 +5,7 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.0.0](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.0.0), 4 days ago)
+- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.0.0](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.0.0), 5 days ago)
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.2](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.2), 1 week ago)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.1.1](https://github.com/mteu/basic-project-template/releases/tag/0.1.1), 1 week ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) ([0.1.0](https://github.com/mteu/zealous-stan/releases/tag/0.1.0), 2 weeks ago)
