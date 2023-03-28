@@ -5,8 +5,8 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
+- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.5.3](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.5.3), today)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.2.0](https://github.com/mteu/basic-project-template/releases/tag/0.2.0), 1 day ago)
-- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.5.2](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.5.2), 3 days ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.0.0](https://github.com/CPS-IT/project-builder/releases/tag/2.0.0), 4 days ago)
 - [shrugify/zealous-stan](https://github.com/shrugify/zealous-stan) ([0.2.6](https://github.com/shrugify/zealous-stan/releases/tag/0.2.6), 1 week ago)
 - [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.0.0](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.0.0), 3 weeks ago)
