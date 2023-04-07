@@ -5,8 +5,8 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.0](https://github.com/shrugify/yolo/releases/tag/0.1.0), today)
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.1.0](https://github.com/CPS-IT/project-builder/releases/tag/2.1.0), today)
+- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.0](https://github.com/shrugify/yolo/releases/tag/0.1.0), 1 day ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.1.0](https://github.com/CPS-IT/project-builder/releases/tag/2.1.0), 1 day ago)
 - [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.0.1](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.0.1), 1 week ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.5.3](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.5.3), 1 week ago)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.2.0](https://github.com/mteu/basic-project-template/releases/tag/0.2.0), 1 week ago)
