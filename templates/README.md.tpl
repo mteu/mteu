@@ -4,20 +4,27 @@ I'm Martin. I'm Berlin 🇪🇺 based PHP developer with a main focus on TYPO3 a
 collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
+{{- define "hasPrefix" -}}
+    {{ $prefix := index . 0 }}
+    {{ $str := index . 1 }}
+    {{ eq $prefix (slice $str 0 (len $prefix)) }}
+{{- end -}}
+
 
 ##### Project contributions
 {{range recentReleases 10}}
-{{range .Names}}
-{{if not (hasPrefix "mteu/" .) (hasPrefix "shrugify/" .)}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
-{{end}}
-{{end}}
+    {{range .Names}}
+        {{if not (or (call hasPrefix "mteu/" .) (call hasPrefix "shrugify/" .))}}
+            - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
+        {{end}}
+    {{end}}
 {{- end}}
+
 
 ##### Personal Projects
 {{range recentReleases 10}}
     {{range .Names}}
-        {{if or (hasPrefix "mteu/" .) (hasPrefix "shrugify/" .)}}
+        {{if or (or (call hasPrefix "mteu/" .) (call hasPrefix "shrugify/" .)}}
             - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
         {{end}}
     {{end}}
