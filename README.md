@@ -5,8 +5,8 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.1](https://github.com/mteu/docblock-rules/releases/tag/0.1.1), 3 days ago)
-- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.5](https://github.com/shrugify/yolo/releases/tag/0.1.5), 3 days ago)
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.1](https://github.com/mteu/docblock-rules/releases/tag/0.1.1), 4 days ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.5](https://github.com/shrugify/yolo/releases/tag/0.1.5), 4 days ago)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.2.2](https://github.com/mteu/basic-project-template/releases/tag/0.2.2), 1 week ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) ([0.1.2](https://github.com/mteu/renovate-configuration/releases/tag/0.1.2), 1 week ago)
 - [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.0.2](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.0.2), 1 week ago)
