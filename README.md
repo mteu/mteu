@@ -14,7 +14,7 @@ collaboration and strive for measurable code quality.
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.1](https://github.com/mteu/docblock-rules/releases/tag/0.1.1), 1 month ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) ([0.1.2](https://github.com/mteu/renovate-configuration/releases/tag/0.1.2), 1 month ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) ([0.3.0](https://github.com/mteu/zealous-stan/releases/tag/0.3.0), 1 month ago)
-- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.2](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.2), 2 months ago)
+- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.2](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.2), 3 months ago)
 
 #### 📫 Get in touch!
 
