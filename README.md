@@ -5,8 +5,8 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.3.0](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.3.0), 3 days ago)
-- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.3](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.3), 4 days ago)
+- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.3.0](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.3.0), 4 days ago)
+- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.3](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.3), 5 days ago)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.2](https://github.com/mteu/docblock-rules/releases/tag/0.1.2), 1 week ago)
 - [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.7](https://github.com/shrugify/yolo/releases/tag/0.1.7), 1 week ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) ([0.4.0](https://github.com/mteu/zealous-stan/releases/tag/0.4.0), 1 week ago)
@@ -14,7 +14,7 @@ collaboration and strive for measurable code quality.
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.2.2](https://github.com/CPS-IT/project-builder/releases/tag/2.2.2), 1 month ago)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.2.4](https://github.com/mteu/basic-project-template/releases/tag/0.2.4), 1 month ago)
 - [CPS-IT/migrator](https://github.com/CPS-IT/migrator) ([0.1.2](https://github.com/CPS-IT/migrator/releases/tag/0.1.2), 1 month ago)
-- [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) ([0.1.2](https://github.com/mteu/renovate-configuration/releases/tag/0.1.2), 1 month ago)
+- [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) ([0.1.2](https://github.com/mteu/renovate-configuration/releases/tag/0.1.2), 2 months ago)
 
 #### 📫 Get in touch!
 
