@@ -5,11 +5,11 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.3.0](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.3.0), 6 days ago)
+- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.3.0](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.3.0), 1 week ago)
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([2.0.3](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/2.0.3), 1 week ago)
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.2](https://github.com/mteu/docblock-rules/releases/tag/0.1.2), 1 week ago)
-- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.7](https://github.com/shrugify/yolo/releases/tag/0.1.7), 1 week ago)
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) ([0.4.0](https://github.com/mteu/zealous-stan/releases/tag/0.4.0), 1 week ago)
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.2](https://github.com/mteu/docblock-rules/releases/tag/0.1.2), 2 weeks ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.7](https://github.com/shrugify/yolo/releases/tag/0.1.7), 2 weeks ago)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) ([0.4.0](https://github.com/mteu/zealous-stan/releases/tag/0.4.0), 2 weeks ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.7.1](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.7.1), 2 weeks ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.2.2](https://github.com/CPS-IT/project-builder/releases/tag/2.2.2), 1 month ago)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.2.4](https://github.com/mteu/basic-project-template/releases/tag/0.2.4), 1 month ago)
