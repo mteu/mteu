@@ -5,7 +5,7 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.2.4](https://github.com/CPS-IT/project-builder/releases/tag/2.2.4), 4 days ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.2.4](https://github.com/CPS-IT/project-builder/releases/tag/2.2.4), 5 days ago)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.3.6](https://github.com/mteu/basic-project-template/releases/tag/0.3.6), 1 week ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) ([0.4.1](https://github.com/mteu/zealous-stan/releases/tag/0.4.1), 1 week ago)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.4](https://github.com/mteu/docblock-rules/releases/tag/0.1.4), 1 week ago)
