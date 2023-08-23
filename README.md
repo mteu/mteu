@@ -5,7 +5,7 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.4.3](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.4.3), 2 days ago)
+- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.4.3](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.4.3), 3 days ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.4.0](https://github.com/CPS-IT/project-builder/releases/tag/2.4.0), 3 weeks ago)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.4.1](https://github.com/mteu/basic-project-template/releases/tag/0.4.1), 1 month ago)
 - [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.8](https://github.com/shrugify/yolo/releases/tag/0.1.8), 1 month ago)
@@ -14,7 +14,7 @@ collaboration and strive for measurable code quality.
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.4](https://github.com/mteu/docblock-rules/releases/tag/0.1.4), 2 months ago)
 - [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 2 months ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.7.1](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.7.1), 2 months ago)
-- [CPS-IT/migrator](https://github.com/CPS-IT/migrator) ([0.1.2](https://github.com/CPS-IT/migrator/releases/tag/0.1.2), 3 months ago)
+- [CPS-IT/migrator](https://github.com/CPS-IT/migrator) ([0.1.2](https://github.com/CPS-IT/migrator/releases/tag/0.1.2), 4 months ago)
 
 #### 📫 Get in touch!
 
