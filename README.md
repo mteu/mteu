@@ -5,8 +5,8 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.4.3](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.4.3), 4 days ago)
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.4.0](https://github.com/CPS-IT/project-builder/releases/tag/2.4.0), 3 weeks ago)
+- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.4.3](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.4.3), 5 days ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.4.0](https://github.com/CPS-IT/project-builder/releases/tag/2.4.0), 4 weeks ago)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.4.1](https://github.com/mteu/basic-project-template/releases/tag/0.4.1), 1 month ago)
 - [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.8](https://github.com/shrugify/yolo/releases/tag/0.1.8), 1 month ago)
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([3.0.0](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/3.0.0), 1 month ago)
