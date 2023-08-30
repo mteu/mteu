@@ -13,7 +13,7 @@ collaboration and strive for measurable code quality.
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) ([0.4.1](https://github.com/mteu/zealous-stan/releases/tag/0.4.1), 2 months ago)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.4](https://github.com/mteu/docblock-rules/releases/tag/0.1.4), 2 months ago)
 - [composer/composer](https://github.com/composer/composer) ([2.5.8](https://github.com/composer/composer/releases/tag/2.5.8), 2 months ago)
-- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.7.1](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.7.1), 2 months ago)
+- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.7.1](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.7.1), 3 months ago)
 - [CPS-IT/migrator](https://github.com/CPS-IT/migrator) ([0.1.2](https://github.com/CPS-IT/migrator/releases/tag/0.1.2), 4 months ago)
 
 #### 📫 Get in touch!
