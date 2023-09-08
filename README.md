@@ -5,7 +5,7 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [composer/composer](https://github.com/composer/composer) ([2.6.2](https://github.com/composer/composer/releases/tag/2.6.2), 4 days ago)
+- [composer/composer](https://github.com/composer/composer) ([2.6.2](https://github.com/composer/composer/releases/tag/2.6.2), 5 days ago)
 - [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.4.3](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.4.3), 2 weeks ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.4.0](https://github.com/CPS-IT/project-builder/releases/tag/2.4.0), 1 month ago)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.4.1](https://github.com/mteu/basic-project-template/releases/tag/0.4.1), 2 months ago)
