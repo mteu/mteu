@@ -5,7 +5,7 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([3.0.1](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/3.0.1), today)
+- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([4.0.0](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/4.0.0), today)
 - [CPS-IT/handlebars](https://github.com/CPS-IT/handlebars) ([0.7.24](https://github.com/CPS-IT/handlebars/releases/tag/0.7.24), 3 days ago)
 - [CPS-IT/migrator](https://github.com/CPS-IT/migrator) ([0.1.3](https://github.com/CPS-IT/migrator/releases/tag/0.1.3), 3 days ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.5.0](https://github.com/CPS-IT/project-builder/releases/tag/2.5.0), 4 days ago)
