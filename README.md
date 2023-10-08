@@ -5,16 +5,16 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 1 day ago)
-- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.9](https://github.com/shrugify/yolo/releases/tag/0.1.9), 4 days ago)
-- [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) ([0.1.3](https://github.com/mteu/renovate-configuration/releases/tag/0.1.3), 4 days ago)
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) ([0.4.2](https://github.com/mteu/zealous-stan/releases/tag/0.4.2), 4 days ago)
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.5](https://github.com/mteu/docblock-rules/releases/tag/0.1.5), 4 days ago)
-- [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.4.2](https://github.com/mteu/basic-project-template/releases/tag/0.4.2), 4 days ago)
-- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([4.0.2](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/4.0.2), 5 days ago)
-- [CPS-IT/migrator](https://github.com/CPS-IT/migrator) ([0.1.4](https://github.com/CPS-IT/migrator/releases/tag/0.1.4), 5 days ago)
-- [CPS-IT/handlebars](https://github.com/CPS-IT/handlebars) ([0.7.25](https://github.com/CPS-IT/handlebars/releases/tag/0.7.25), 5 days ago)
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.5.1](https://github.com/CPS-IT/project-builder/releases/tag/2.5.1), 5 days ago)
+- [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 2 days ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.9](https://github.com/shrugify/yolo/releases/tag/0.1.9), 5 days ago)
+- [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) ([0.1.3](https://github.com/mteu/renovate-configuration/releases/tag/0.1.3), 5 days ago)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) ([0.4.2](https://github.com/mteu/zealous-stan/releases/tag/0.4.2), 5 days ago)
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) ([0.1.5](https://github.com/mteu/docblock-rules/releases/tag/0.1.5), 5 days ago)
+- [mteu/basic-project-template](https://github.com/mteu/basic-project-template) ([0.4.2](https://github.com/mteu/basic-project-template/releases/tag/0.4.2), 5 days ago)
+- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) ([4.0.2](https://github.com/CPS-IT/frontend-asset-handler/releases/tag/4.0.2), 6 days ago)
+- [CPS-IT/migrator](https://github.com/CPS-IT/migrator) ([0.1.4](https://github.com/CPS-IT/migrator/releases/tag/0.1.4), 6 days ago)
+- [CPS-IT/handlebars](https://github.com/CPS-IT/handlebars) ([0.7.25](https://github.com/CPS-IT/handlebars/releases/tag/0.7.25), 6 days ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.5.1](https://github.com/CPS-IT/project-builder/releases/tag/2.5.1), 6 days ago)
 
 #### 📫 Get in touch!
 
