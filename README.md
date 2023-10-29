@@ -5,7 +5,7 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.5.0](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.5.0), 1 day ago)
+- [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.5.0](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.5.0), 2 days ago)
 - [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 3 weeks ago)
 - [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.9](https://github.com/shrugify/yolo/releases/tag/0.1.9), 3 weeks ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) ([0.1.3](https://github.com/mteu/renovate-configuration/releases/tag/0.1.3), 3 weeks ago)
