@@ -5,8 +5,8 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [CPS-IT/migrator](https://github.com/CPS-IT/migrator) ([0.1.5](https://github.com/CPS-IT/migrator/releases/tag/0.1.5), 5 days ago)
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.6.0](https://github.com/CPS-IT/project-builder/releases/tag/2.6.0), 5 days ago)
+- [CPS-IT/migrator](https://github.com/CPS-IT/migrator) ([0.1.5](https://github.com/CPS-IT/migrator/releases/tag/0.1.5), 6 days ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.6.0](https://github.com/CPS-IT/project-builder/releases/tag/2.6.0), 6 days ago)
 - [eliashaeussler/cache-warmup](https://github.com/eliashaeussler/cache-warmup) ([2.7.0](https://github.com/eliashaeussler/cache-warmup/releases/tag/2.7.0), 1 week ago)
 - [composer/composer](https://github.com/composer/composer) ([2.6.5](https://github.com/composer/composer/releases/tag/2.6.5), 1 month ago)
 - [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.9](https://github.com/shrugify/yolo/releases/tag/0.1.9), 1 month ago)
