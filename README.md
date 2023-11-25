@@ -5,8 +5,8 @@ collaboration and strive for measurable code quality.
 
 #### 🚀 Recent Releases
 
-- [CPS-IT/handlebars](https://github.com/CPS-IT/handlebars) ([0.7.26](https://github.com/CPS-IT/handlebars/releases/tag/0.7.26), today)
-- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.10](https://github.com/shrugify/yolo/releases/tag/0.1.10), 6 days ago)
+- [CPS-IT/handlebars](https://github.com/CPS-IT/handlebars) ([0.7.26](https://github.com/CPS-IT/handlebars/releases/tag/0.7.26), 1 day ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.10](https://github.com/shrugify/yolo/releases/tag/0.1.10), 1 week ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) ([1.8.0](https://github.com/CPS-IT/typo3-project-template/releases/tag/1.8.0), 1 week ago)
 - [CPS-IT/migrator](https://github.com/CPS-IT/migrator) ([0.1.5](https://github.com/CPS-IT/migrator/releases/tag/0.1.5), 2 weeks ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) ([2.6.0](https://github.com/CPS-IT/project-builder/releases/tag/2.6.0), 2 weeks ago)
