@@ -20,7 +20,7 @@ collaboration and strive for measurable code quality.
 
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
-{{end}}
+{{- end}}
 
 #### 📫 Get in touch!
 
