@@ -14,12 +14,12 @@ collaboration and strive for measurable code quality.
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration)
-- [shrugify/yolo](https://github.com/shrugify/yolo) ([0.1.10]
+- [shrugify/yolo](https://github.com/shrugify/yolo)
 
 #### 👷 Recent Contributions
 
 {{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{end}}
 
 #### 📫 Get in touch!
