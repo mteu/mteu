@@ -19,12 +19,12 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [shrugify/yolo](https://github.com/shrugify/yolo) (2 days ago)
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (2 days ago)
-- [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (2 days ago)
-- [mteu/basic-project-template](https://github.com/mteu/basic-project-template) (4 days ago)
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (6 days ago)
-- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) (6 days ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) (3 days ago)
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (3 days ago)
+- [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (3 days ago)
+- [mteu/basic-project-template](https://github.com/mteu/basic-project-template) (5 days ago)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 week ago)
+- [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) (1 week ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (2 weeks ago)
 - [eliashaeussler/dotfiles](https://github.com/eliashaeussler/dotfiles) (1 month ago)
 - [CPS-IT/handlebars](https://github.com/CPS-IT/handlebars) (5 months ago)
