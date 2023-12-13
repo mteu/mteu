@@ -25,7 +25,7 @@ collaboration and strive for measurable code quality.
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) (1 week ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 week ago)
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) (1 week ago)
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (2 weeks ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (3 weeks ago)
 - [eliashaeussler/dotfiles](https://github.com/eliashaeussler/dotfiles) (1 month ago)
 - [CPS-IT/handlebars](https://github.com/CPS-IT/handlebars) (5 months ago)
 - [composer/composer](https://github.com/composer/composer) (5 months ago)
