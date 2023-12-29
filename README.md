@@ -25,10 +25,10 @@ collaboration and strive for measurable code quality.
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (1 day ago)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (1 day ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (1 day ago)
+- [CPS-IT/migrator](https://github.com/CPS-IT/migrator) (1 day ago)
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) (4 weeks ago)
 - [eliashaeussler/dotfiles](https://github.com/eliashaeussler/dotfiles) (2 months ago)
 - [CPS-IT/handlebars](https://github.com/CPS-IT/handlebars) (5 months ago)
-- [composer/composer](https://github.com/composer/composer) (6 months ago)
 
 #### 📫 Get in touch!
 
