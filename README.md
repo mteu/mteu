@@ -19,13 +19,13 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
+- [shrugify/yolo](https://github.com/shrugify/yolo) (today)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) (today)
-- [shrugify/yolo](https://github.com/shrugify/yolo) (1 day ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 day ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (1 day ago)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (1 day ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (1 day ago)
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) (4 weeks ago)
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (1 month ago)
 - [eliashaeussler/dotfiles](https://github.com/eliashaeussler/dotfiles) (2 months ago)
 - [CPS-IT/handlebars](https://github.com/CPS-IT/handlebars) (5 months ago)
 - [composer/composer](https://github.com/composer/composer) (6 months ago)
