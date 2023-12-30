@@ -20,11 +20,11 @@ collaboration and strive for measurable code quality.
 
 
 - [shrugify/yolo](https://github.com/shrugify/yolo) (today)
+- [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (today)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) (1 day ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (2 days ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (2 days ago)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (2 days ago)
-- [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (2 days ago)
 - [CPS-IT/migrator](https://github.com/CPS-IT/migrator) (2 days ago)
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) (4 weeks ago)
 - [eliashaeussler/dotfiles](https://github.com/eliashaeussler/dotfiles) (2 months ago)
