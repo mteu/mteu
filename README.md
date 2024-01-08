@@ -19,10 +19,10 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (today)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (today)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (today)
 - [shrugify/yolo](https://github.com/shrugify/yolo) (3 days ago)
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (3 days ago)
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (4 days ago)
 - [CPS-IT/php-cs-fixer-config](https://github.com/CPS-IT/php-cs-fixer-config) (4 days ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (1 week ago)
 - [mteu/basic-project-template](https://github.com/mteu/basic-project-template) (1 week ago)
