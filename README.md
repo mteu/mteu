@@ -20,7 +20,7 @@ collaboration and strive for measurable code quality.
 
 
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (today)
-- [shrugify/yolo](https://github.com/shrugify/yolo) (1 day ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) (today)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 week ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (1 week ago)
 - [CPS-IT/php-cs-fixer-config](https://github.com/CPS-IT/php-cs-fixer-config) (1 week ago)
