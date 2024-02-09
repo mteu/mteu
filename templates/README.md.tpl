@@ -7,7 +7,7 @@ collaboration and strive for measurable code quality.
 
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template)
-- [mteu/basic-project-template](https://github.com/mteu/basic-project-template)
+- [mteu/php-template](https://github.com/mteu/php-template)
 
 #### 🚜 Friendly Helpers
 
