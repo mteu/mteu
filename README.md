@@ -19,7 +19,7 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [shrugify/yolo](https://github.com/shrugify/yolo) (2 days ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) (3 days ago)
 - [mteu/php-template](https://github.com/mteu/php-template) (2 weeks ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (2 weeks ago)
 - [eliashaeussler/composer-package-template](https://github.com/eliashaeussler/composer-package-template) (2 weeks ago)
@@ -27,7 +27,7 @@ collaboration and strive for measurable code quality.
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 month ago)
 - [CPS-IT/php-cs-fixer-config](https://github.com/CPS-IT/php-cs-fixer-config) (1 month ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (1 month ago)
-- [CPS-IT/migrator](https://github.com/CPS-IT/migrator) (1 month ago)
+- [CPS-IT/migrator](https://github.com/CPS-IT/migrator) (2 months ago)
 - [CPS-IT/frontend-asset-handler](https://github.com/CPS-IT/frontend-asset-handler) (2 months ago)
 
 #### 📫 Get in touch!
