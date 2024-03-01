@@ -19,9 +19,9 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (1 day ago)
-- [shrugify/yolo](https://github.com/shrugify/yolo) (6 days ago)
-- [mteu/php-template](https://github.com/mteu/php-template) (2 weeks ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (2 days ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) (1 week ago)
+- [mteu/php-template](https://github.com/mteu/php-template) (3 weeks ago)
 - [eliashaeussler/composer-package-template](https://github.com/eliashaeussler/composer-package-template) (3 weeks ago)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (1 month ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 month ago)
