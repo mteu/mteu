@@ -19,12 +19,12 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (5 days ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (6 days ago)
 - [shrugify/yolo](https://github.com/shrugify/yolo) (1 week ago)
 - [mteu/php-template](https://github.com/mteu/php-template) (3 weeks ago)
-- [eliashaeussler/composer-package-template](https://github.com/eliashaeussler/composer-package-template) (3 weeks ago)
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (1 month ago)
+- [eliashaeussler/composer-package-template](https://github.com/eliashaeussler/composer-package-template) (4 weeks ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 month ago)
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (1 month ago)
 - [CPS-IT/php-cs-fixer-config](https://github.com/CPS-IT/php-cs-fixer-config) (2 months ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (2 months ago)
 - [CPS-IT/migrator](https://github.com/CPS-IT/migrator) (2 months ago)
