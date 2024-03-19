@@ -19,10 +19,10 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) (today)
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (5 days ago)
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (5 days ago)
-- [shrugify/yolo](https://github.com/shrugify/yolo) (6 days ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) (1 day ago)
+- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) (1 day ago)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (6 days ago)
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (6 days ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (2 weeks ago)
 - [mteu/php-template](https://github.com/mteu/php-template) (1 month ago)
 - [eliashaeussler/composer-package-template](https://github.com/eliashaeussler/composer-package-template) (1 month ago)
