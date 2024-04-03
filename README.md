@@ -21,12 +21,12 @@ collaboration and strive for measurable code quality.
 
 - [shrugify/yolo](https://github.com/shrugify/yolo) (1 week ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) (2 weeks ago)
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (2 weeks ago)
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (2 weeks ago)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (3 weeks ago)
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (3 weeks ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (1 month ago)
 - [mteu/php-template](https://github.com/mteu/php-template) (1 month ago)
 - [eliashaeussler/composer-package-template](https://github.com/eliashaeussler/composer-package-template) (1 month ago)
-- [CPS-IT/php-cs-fixer-config](https://github.com/CPS-IT/php-cs-fixer-config) (2 months ago)
+- [CPS-IT/php-cs-fixer-config](https://github.com/CPS-IT/php-cs-fixer-config) (3 months ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (3 months ago)
 - [CPS-IT/migrator](https://github.com/CPS-IT/migrator) (3 months ago)
 
