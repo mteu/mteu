@@ -20,8 +20,8 @@ collaboration and strive for measurable code quality.
 
 
 - [shrugify/yolo](https://github.com/shrugify/yolo) (today)
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (today)
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (today)
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (1 day ago)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 day ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) (1 month ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (2 months ago)
 - [mteu/php-template](https://github.com/mteu/php-template) (3 months ago)
