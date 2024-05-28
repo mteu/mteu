@@ -19,15 +19,15 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (6 days ago)
-- [shrugify/yolo](https://github.com/shrugify/yolo) (6 days ago)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 week ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) (1 week ago)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (1 week ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) (2 months ago)
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (2 months ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (3 months ago)
 - [mteu/php-template](https://github.com/mteu/php-template) (3 months ago)
 - [eliashaeussler/composer-package-template](https://github.com/eliashaeussler/composer-package-template) (3 months ago)
 - [CPS-IT/php-cs-fixer-config](https://github.com/CPS-IT/php-cs-fixer-config) (4 months ago)
-- [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (4 months ago)
+- [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (5 months ago)
 - [CPS-IT/migrator](https://github.com/CPS-IT/migrator) (5 months ago)
 
 #### 📫 Get in touch!
