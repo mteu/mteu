@@ -19,8 +19,8 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [shrugify/yolo](https://github.com/shrugify/yolo) (1 week ago)
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (3 weeks ago)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (today)
+- [shrugify/yolo](https://github.com/shrugify/yolo) (today)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (4 weeks ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) (2 months ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (3 months ago)
