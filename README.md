@@ -26,7 +26,7 @@ collaboration and strive for measurable code quality.
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (4 months ago)
 - [mteu/php-template](https://github.com/mteu/php-template) (4 months ago)
 - [eliashaeussler/composer-package-template](https://github.com/eliashaeussler/composer-package-template) (4 months ago)
-- [CPS-IT/php-cs-fixer-config](https://github.com/CPS-IT/php-cs-fixer-config) (5 months ago)
+- [CPS-IT/php-cs-fixer-config](https://github.com/CPS-IT/php-cs-fixer-config) (6 months ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (6 months ago)
 - [CPS-IT/migrator](https://github.com/CPS-IT/migrator) (6 months ago)
 
