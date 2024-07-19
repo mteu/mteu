@@ -19,6 +19,7 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
+- [TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (1 day ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (2 weeks ago)
 - [shrugify/yolo](https://github.com/shrugify/yolo) (3 weeks ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 month ago)
@@ -28,7 +29,6 @@ collaboration and strive for measurable code quality.
 - [eliashaeussler/composer-package-template](https://github.com/eliashaeussler/composer-package-template) (5 months ago)
 - [CPS-IT/php-cs-fixer-config](https://github.com/CPS-IT/php-cs-fixer-config) (6 months ago)
 - [mteu/renovate-configuration](https://github.com/mteu/renovate-configuration) (6 months ago)
-- [CPS-IT/migrator](https://github.com/CPS-IT/migrator) (6 months ago)
 
 #### 📫 Get in touch!
 
