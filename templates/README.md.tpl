@@ -25,5 +25,4 @@ collaboration and strive for measurable code quality.
 #### 📫 Get in touch!
 
 - Fediverse: [@mteu@phpc.social](https://phpc.social/@mteu)
-- Bluesky: [@mteu.bsky.social](https://bsky.app/profile/mteu.bsky.social)
 - Twitter/X: [@mteu](https://x.com/mteu)
