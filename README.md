@@ -19,9 +19,9 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [TYPO3/Fluid](https://github.com/TYPO3/Fluid) (5 days ago)
+- [TYPO3/Fluid](https://github.com/TYPO3/Fluid) (6 days ago)
 - [TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (1 week ago)
-- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (3 weeks ago)
+- [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (4 weeks ago)
 - [shrugify/yolo](https://github.com/shrugify/yolo) (1 month ago)
 - [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 month ago)
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (2 months ago)
@@ -33,5 +33,4 @@ collaboration and strive for measurable code quality.
 #### 📫 Get in touch!
 
 - Fediverse: [@mteu@phpc.social](https://phpc.social/@mteu)
-- Bluesky: [@mteu.bsky.social](https://bsky.app/profile/mteu.bsky.social)
 - Twitter/X: [@mteu](https://x.com/mteu)
