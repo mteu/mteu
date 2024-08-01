@@ -19,7 +19,8 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [mteu/typo3-stream-writer](https://github.com/mteu/typo3-stream-writer) (1 day ago)
+- [mteu/typo3-stream-writer](https://github.com/mteu/typo3-stream-writer) (today)
+- [webkram/webkram](https://github.com/webkram/webkram) (today)
 - [TYPO3/Fluid](https://github.com/TYPO3/Fluid) (1 week ago)
 - [TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (2 weeks ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (1 month ago)
@@ -28,7 +29,6 @@ collaboration and strive for measurable code quality.
 - [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (2 months ago)
 - [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) (4 months ago)
 - [mteu/php-template](https://github.com/mteu/php-template) (5 months ago)
-- [eliashaeussler/composer-package-template](https://github.com/eliashaeussler/composer-package-template) (5 months ago)
 
 #### 📫 Get in touch!
 
