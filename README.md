@@ -19,10 +19,10 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [shrugify/yolo](https://github.com/shrugify/yolo) (today)
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (1 day ago)
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (1 day ago)
-- [usejacket/jacket](https://github.com/usejacket/jacket) (3 days ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) (1 day ago)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (2 days ago)
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (2 days ago)
+- [usejacket/jacket](https://github.com/usejacket/jacket) (4 days ago)
 - [webkram/webkram](https://github.com/webkram/webkram) (1 week ago)
 - [mteu/typo3-stream-writer](https://github.com/mteu/typo3-stream-writer) (1 week ago)
 - [TYPO3/Fluid](https://github.com/TYPO3/Fluid) (2 weeks ago)
