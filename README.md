@@ -19,16 +19,16 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [shrugify/yolo](https://github.com/shrugify/yolo) (1 day ago)
-- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (1 day ago)
-- [mteu/typo3-stream-writer](https://github.com/mteu/typo3-stream-writer) (1 day ago)
-- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (2 days ago)
+- [shrugify/yolo](https://github.com/shrugify/yolo) (2 days ago)
+- [mteu/docblock-rules](https://github.com/mteu/docblock-rules) (2 days ago)
+- [mteu/typo3-stream-writer](https://github.com/mteu/typo3-stream-writer) (2 days ago)
+- [mteu/zealous-stan](https://github.com/mteu/zealous-stan) (3 days ago)
 - [usejacket/jacket](https://github.com/usejacket/jacket) (1 week ago)
-- [webkram/webkram](https://github.com/webkram/webkram) (1 week ago)
+- [webkram/webkram](https://github.com/webkram/webkram) (2 weeks ago)
 - [TYPO3/Fluid](https://github.com/TYPO3/Fluid) (3 weeks ago)
-- [TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (3 weeks ago)
+- [TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (4 weeks ago)
 - [CPS-IT/project-builder](https://github.com/CPS-IT/project-builder) (1 month ago)
-- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) (4 months ago)
+- [CPS-IT/typo3-project-template](https://github.com/CPS-IT/typo3-project-template) (5 months ago)
 
 #### 📫 Get in touch!
 
