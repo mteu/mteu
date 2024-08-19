@@ -3,7 +3,7 @@
 I'm Martin. I'm a Berlin 🇪🇺 based PHP developer with a main focus on TYPO3 and Symfony projects. I thrive on
 collaboration and strive for measurable code quality.
 
-#### 🧡 TYPO3 Extensions
+### TYPO3 Extensions
 - [`EXT:typo3_stream_writer`](https://github.com/mteu/typo3-stream-writer) - _Let's you log stuff to `php://stdout` or `
 php://stderr` for services like Graylog etc._
 
