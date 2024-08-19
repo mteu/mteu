@@ -22,7 +22,7 @@ php://stderr` for services like Graylog etc._
 #### 👷 Recent Contributions
 
 {{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
+- [`{{.Repo.Name}}`]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 📫 Get in touch!
