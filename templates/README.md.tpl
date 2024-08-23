@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Martin. I'm a Berlin 🇪🇺 based PHP developer with a main focus on TYPO3 and Symfony projects. I thrive on
+I'm Martin. I'm a Berlin 🇪🇺 based PHP developer with a main focus on [TYPO3 CMS](https://typo3.org/) and [Symfony](https://symfony.com/) projects. I thrive on
 collaboration and strive for measurable code quality.
 
 #### 🧡 TYPO3 Extensions
