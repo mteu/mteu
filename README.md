@@ -23,10 +23,10 @@ php://stderr` for services like Graylog etc._
 
 
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (1 week ago)
-- [`shrugify/yolo`](https://github.com/shrugify/yolo) (4 weeks ago)
+- [`shrugify/yolo`](https://github.com/shrugify/yolo) (1 month ago)
 - [`CPS-IT/project-builder`](https://github.com/CPS-IT/project-builder) (1 month ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (1 month ago)
-- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (1 month ago)
+- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (2 months ago)
 - [`CPS-IT/php-cs-fixer-config`](https://github.com/CPS-IT/php-cs-fixer-config) (2 months ago)
 - [`usejacket/jacket`](https://github.com/usejacket/jacket) (3 months ago)
 - [`webkram/webkram`](https://github.com/webkram/webkram) (3 months ago)
