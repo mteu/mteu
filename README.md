@@ -22,9 +22,9 @@ php://stderr` for services like Graylog etc._
 #### 👷 Recent Contributions
 
 
-- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (today)
-- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (today)
-- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (today)
+- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (1 day ago)
+- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (1 day ago)
+- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (1 day ago)
 - [`shrugify/yolo`](https://github.com/shrugify/yolo) (2 months ago)
 - [`CPS-IT/project-builder`](https://github.com/CPS-IT/project-builder) (2 months ago)
 - [`CPS-IT/php-cs-fixer-config`](https://github.com/CPS-IT/php-cs-fixer-config) (4 months ago)
