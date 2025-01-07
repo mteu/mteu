@@ -35,4 +35,3 @@ collaboration and strive for measurable code quality.
 #### 📫 Get in touch!
 
 - Fediverse: [@mteu@phpc.social](https://phpc.social/@mteu)
-- Twitter/X: [@mteu](https://x.com/mteu)
