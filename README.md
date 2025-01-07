@@ -4,8 +4,7 @@ I'm Martin. I'm a Berlin 🇪🇺 based PHP developer with a main focus on [TYPO
 collaboration and strive for measurable code quality.
 
 #### 🧡 TYPO3 Extensions
-- [`EXT:typo3_stream_writer`](https://github.com/mteu/typo3-stream-writer) - _Let's you log stuff to `php://stdout` or `
-php://stderr` for services like Graylog etc._
+- [`EXT:typo3_stream_writer`](https://github.com/mteu/typo3-stream-writer) - _Let's you log stuff to `php://stdout` or `php://stderr` for services like Graylog etc._
 
 #### 🚜 Friendly Helpers
 
