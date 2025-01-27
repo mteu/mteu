@@ -21,8 +21,8 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (today)
-- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (1 week ago)
+- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (1 day ago)
+- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (2 weeks ago)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (1 month ago)
 - [`shrugify/yolo`](https://github.com/shrugify/yolo) (3 months ago)
 - [`CPS-IT/project-builder`](https://github.com/CPS-IT/project-builder) (3 months ago)
