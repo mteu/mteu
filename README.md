@@ -30,7 +30,7 @@ collaboration and strive for measurable code quality.
 - [`usejacket/jacket`](https://github.com/usejacket/jacket) (7 months ago)
 - [`webkram/webkram`](https://github.com/webkram/webkram) (7 months ago)
 - [`TYPO3/Fluid`](https://github.com/TYPO3/Fluid) (7 months ago)
-- [`TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow`](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (7 months ago)
+- [`TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow`](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (8 months ago)
 
 #### 📫 Get in touch!
 
