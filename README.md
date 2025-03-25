@@ -21,12 +21,12 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (6 days ago)
+- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (1 week ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (1 month ago)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (2 months ago)
 - [`shrugify/yolo`](https://github.com/shrugify/yolo) (5 months ago)
 - [`CPS-IT/project-builder`](https://github.com/CPS-IT/project-builder) (5 months ago)
-- [`CPS-IT/php-cs-fixer-config`](https://github.com/CPS-IT/php-cs-fixer-config) (6 months ago)
+- [`CPS-IT/php-cs-fixer-config`](https://github.com/CPS-IT/php-cs-fixer-config) (7 months ago)
 - [`usejacket/jacket`](https://github.com/usejacket/jacket) (7 months ago)
 - [`webkram/webkram`](https://github.com/webkram/webkram) (7 months ago)
 - [`TYPO3/Fluid`](https://github.com/TYPO3/Fluid) (8 months ago)
