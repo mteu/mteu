@@ -27,7 +27,7 @@ collaboration and strive for measurable code quality.
 - [`shrugify/yolo`](https://github.com/shrugify/yolo) (5 months ago)
 - [`CPS-IT/project-builder`](https://github.com/CPS-IT/project-builder) (6 months ago)
 - [`CPS-IT/php-cs-fixer-config`](https://github.com/CPS-IT/php-cs-fixer-config) (7 months ago)
-- [`usejacket/jacket`](https://github.com/usejacket/jacket) (7 months ago)
+- [`usejacket/jacket`](https://github.com/usejacket/jacket) (8 months ago)
 - [`webkram/webkram`](https://github.com/webkram/webkram) (8 months ago)
 - [`TYPO3/Fluid`](https://github.com/TYPO3/Fluid) (8 months ago)
 - [`TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow`](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (8 months ago)
