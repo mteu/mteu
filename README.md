@@ -29,7 +29,7 @@ collaboration and strive for measurable code quality.
 - [`CPS-IT/php-cs-fixer-config`](https://github.com/CPS-IT/php-cs-fixer-config) (7 months ago)
 - [`usejacket/jacket`](https://github.com/usejacket/jacket) (8 months ago)
 - [`webkram/webkram`](https://github.com/webkram/webkram) (8 months ago)
-- [`TYPO3/Fluid`](https://github.com/TYPO3/Fluid) (8 months ago)
+- [`TYPO3/Fluid`](https://github.com/TYPO3/Fluid) (9 months ago)
 - [`TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow`](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (9 months ago)
 
 #### 📫 Get in touch!
