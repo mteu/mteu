@@ -21,7 +21,7 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (2 weeks ago)
+- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (3 weeks ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (4 months ago)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (5 months ago)
 - [`shrugify/yolo`](https://github.com/shrugify/yolo) (7 months ago)
@@ -30,7 +30,7 @@ collaboration and strive for measurable code quality.
 - [`usejacket/jacket`](https://github.com/usejacket/jacket) (10 months ago)
 - [`webkram/webkram`](https://github.com/webkram/webkram) (10 months ago)
 - [`TYPO3/Fluid`](https://github.com/TYPO3/Fluid) (10 months ago)
-- [`TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow`](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (10 months ago)
+- [`TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow`](https://github.com/TYPO3-Documentation/TYPO3CMS-Guide-ContributionWorkflow) (11 months ago)
 
 #### 📫 Get in touch!
 
