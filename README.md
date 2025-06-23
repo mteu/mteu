@@ -26,7 +26,7 @@ collaboration and strive for measurable code quality.
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (5 months ago)
 - [`shrugify/yolo`](https://github.com/shrugify/yolo) (8 months ago)
 - [`CPS-IT/project-builder`](https://github.com/CPS-IT/project-builder) (8 months ago)
-- [`CPS-IT/php-cs-fixer-config`](https://github.com/CPS-IT/php-cs-fixer-config) (9 months ago)
+- [`CPS-IT/php-cs-fixer-config`](https://github.com/CPS-IT/php-cs-fixer-config) (10 months ago)
 - [`usejacket/jacket`](https://github.com/usejacket/jacket) (10 months ago)
 - [`webkram/webkram`](https://github.com/webkram/webkram) (10 months ago)
 - [`TYPO3/Fluid`](https://github.com/TYPO3/Fluid) (11 months ago)
