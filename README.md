@@ -22,6 +22,7 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
+- [`eliashaeussler/version-bumper`](https://github.com/eliashaeussler/version-bumper) (today)
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
 - [`eliashaeussler/typo3-warming`](https://github.com/eliashaeussler/typo3-warming) (1 day ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (3 days ago)
@@ -31,7 +32,6 @@ collaboration and strive for measurable code quality.
 - [`CPS-IT/project-builder`](https://github.com/CPS-IT/project-builder) (9 months ago)
 - [`CPS-IT/php-cs-fixer-config`](https://github.com/CPS-IT/php-cs-fixer-config) (10 months ago)
 - [`usejacket/jacket`](https://github.com/usejacket/jacket) (11 months ago)
-- [`webkram/webkram`](https://github.com/webkram/webkram) (11 months ago)
 
 #### 📫 Get in touch!
 
