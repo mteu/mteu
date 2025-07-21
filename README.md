@@ -5,7 +5,7 @@ collaboration and strive for measurable code quality.
 
 #### 🧡 TYPO3 Extensions
 - [`EXT:monitoring`](https://github.com/mteu/typo3-monitoring) - _Exposes health state information of selected components in your TYPO3 instance_
-- [`EXT:typed-ext-conf`](https://github.com/mteu/typo3-typed-extconf) - _Helper package to retrieve type-safe values from your Extension Settings_
+- [`EXT:typed_extconf`](https://github.com/mteu/typo3-typed-extconf) - _Helper package to retrieve type-safe values from your Extension Settings_
 - [`EXT:typo3_stream_writer`](https://github.com/mteu/typo3-stream-writer) - _Let's you log selectively to `php://stdout` or `php://stderr` for external services_
 
 #### 🚜 Friendly Helpers
