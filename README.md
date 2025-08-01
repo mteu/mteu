@@ -24,9 +24,9 @@ collaboration and strive for measurable code quality.
 
 
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
-- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (4 days ago)
-- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (5 days ago)
-- [`eliashaeussler/version-bumper`](https://github.com/eliashaeussler/version-bumper) (1 week ago)
+- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (5 days ago)
+- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (6 days ago)
+- [`eliashaeussler/version-bumper`](https://github.com/eliashaeussler/version-bumper) (2 weeks ago)
 - [`eliashaeussler/typo3-warming`](https://github.com/eliashaeussler/typo3-warming) (2 weeks ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (2 weeks ago)
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (4 weeks ago)
