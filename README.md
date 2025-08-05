@@ -23,8 +23,8 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
+- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (1 day ago)
-- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (1 day ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (1 day ago)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (1 day ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (4 days ago)
