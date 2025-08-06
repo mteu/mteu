@@ -24,7 +24,7 @@ collaboration and strive for measurable code quality.
 
 
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (today)
-- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (1 day ago)
+- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (2 days ago)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (2 days ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (5 days ago)
