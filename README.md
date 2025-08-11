@@ -9,7 +9,7 @@ collaboration and strive for measurable code quality.
 - [`EXT:typo3_stream_writer`](https://github.com/mteu/typo3-stream-writer) - _Let's you log selectively to `php://stdout` or `php://stderr` for external services_
 
 #### 📦 Standalone Packages
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser]) - _CycloneDX SBOM parser for PHP_
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
 
 #### 🚜 Friendly Helpers
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan)
