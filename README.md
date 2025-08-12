@@ -26,10 +26,10 @@ collaboration and strive for measurable code quality.
 
 
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
+- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (today)
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (today)
 - [`mteu/php-template`](https://github.com/mteu/php-template) (1 day ago)
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (3 days ago)
-- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (3 days ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (5 days ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (6 days ago)
 - [`eliashaeussler/version-bumper`](https://github.com/eliashaeussler/version-bumper) (3 weeks ago)
