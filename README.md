@@ -25,8 +25,8 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (today)
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (1 day ago)
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 day ago)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (2 days ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (3 days ago)
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (4 days ago)
