@@ -25,13 +25,13 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (5 days ago)
-- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (6 days ago)
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 week ago)
-- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (1 week ago)
-- [`mteu/php-template`](https://github.com/mteu/php-template) (1 week ago)
+- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
+- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (today)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (today)
+- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (1 day ago)
+- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (1 week ago)
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (1 week ago)
-- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (2 weeks ago)
+- [`mteu/php-template`](https://github.com/mteu/php-template) (1 week ago)
 - [`eliashaeussler/version-bumper`](https://github.com/eliashaeussler/version-bumper) (2 months ago)
 - [`eliashaeussler/typo3-warming`](https://github.com/eliashaeussler/typo3-warming) (2 months ago)
 - [`shrugify/yolo`](https://github.com/shrugify/yolo) (11 months ago)
