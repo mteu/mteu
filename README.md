@@ -30,7 +30,7 @@ collaboration and strive for measurable code quality.
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (1 week ago)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (2 weeks ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (2 weeks ago)
-- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (3 weeks ago)
+- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (4 weeks ago)
 - [`mteu/php-template`](https://github.com/mteu/php-template) (1 month ago)
 - [`eliashaeussler/version-bumper`](https://github.com/eliashaeussler/version-bumper) (3 months ago)
 - [`eliashaeussler/typo3-warming`](https://github.com/eliashaeussler/typo3-warming) (3 months ago)
