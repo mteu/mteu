@@ -6,7 +6,6 @@ collaboration and strive for measurable code quality.
 #### 🧡 TYPO3 Extensions
 - [`EXT:monitoring`](https://github.com/mteu/typo3-monitoring) - _Exposes health state information of selected components in your TYPO3 instance_
 - [`EXT:typed_extconf`](https://github.com/mteu/typo3-typed-extconf) - _Helper package to retrieve type-safe values from your Extension Settings_
-- [`EXT:typo3_stream_writer`](https://github.com/mteu/typo3-stream-writer) - _Let's you log selectively to `php://stdout` or `php://stderr` for external services_
 
 #### 📦 Standalone Packages
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
@@ -25,9 +24,9 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
+- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (today)
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 week ago)
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (2 weeks ago)
-- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (2 weeks ago)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (2 weeks ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (3 weeks ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (1 month ago)
