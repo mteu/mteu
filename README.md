@@ -24,13 +24,13 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (today)
-- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (today)
-- [`mteu/php-template`](https://github.com/mteu/php-template) (today)
-- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (6 days ago)
+- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (1 day ago)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 day ago)
+- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (1 day ago)
+- [`mteu/php-template`](https://github.com/mteu/php-template) (1 day ago)
+- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (1 week ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (1 week ago)
-- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (2 weeks ago)
+- [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (3 weeks ago)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (1 month ago)
 - [`eliashaeussler/version-bumper`](https://github.com/eliashaeussler/version-bumper) (4 months ago)
 - [`eliashaeussler/typo3-warming`](https://github.com/eliashaeussler/typo3-warming) (4 months ago)
