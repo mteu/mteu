@@ -24,9 +24,9 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (2 days ago)
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (3 days ago)
-- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (4 days ago)
+- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (3 days ago)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (4 days ago)
+- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (5 days ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (1 week ago)
 - [`mteu/php-template`](https://github.com/mteu/php-template) (1 week ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (2 weeks ago)
