@@ -33,7 +33,7 @@ collaboration and strive for measurable code quality.
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (3 months ago)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (3 months ago)
 - [`eliashaeussler/version-bumper`](https://github.com/eliashaeussler/version-bumper) (6 months ago)
-- [`eliashaeussler/typo3-warming`](https://github.com/eliashaeussler/typo3-warming) (6 months ago)
+- [`eliashaeussler/typo3-warming`](https://github.com/eliashaeussler/typo3-warming) (7 months ago)
 
 #### 📫 Get in touch!
 
