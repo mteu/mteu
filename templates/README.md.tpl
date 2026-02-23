@@ -14,7 +14,6 @@ collaboration and strive for measurable code quality.
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration)
-- [`shrugify/yolo`](https://github.com/shrugify/yolo)
 
 #### 🏗️ Project Builder
 
