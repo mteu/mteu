@@ -14,7 +14,6 @@ collaboration and strive for measurable code quality.
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan)
 - [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration)
-- [`shrugify/yolo`](https://github.com/shrugify/yolo)
 
 #### 🏗️ Project Builder
 
@@ -25,8 +24,8 @@ collaboration and strive for measurable code quality.
 
 
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (today)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (today)
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (3 weeks ago)
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (2 months ago)
 - [`mteu/php-template`](https://github.com/mteu/php-template) (2 months ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (2 months ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (2 months ago)
