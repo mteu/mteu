@@ -10,11 +10,6 @@ collaboration and strive for measurable code quality.
 #### 📦 Standalone Packages
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
 
-#### 🚜 Friendly Helpers
-- [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan)
-- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules)
-- [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration)
-
 #### 🏗️ Project Builder
 
 - [`CPS-IT/project-builder`](https://github.com/CPS-IT/project-builder)
