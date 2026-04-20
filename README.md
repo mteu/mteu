@@ -18,11 +18,11 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 day ago)
-- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (4 days ago)
-- [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (5 days ago)
-- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (6 days ago)
+- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (1 day ago)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (2 days ago)
+- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (5 days ago)
+- [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (6 days ago)
+- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (1 week ago)
 - [`mteu/php-template`](https://github.com/mteu/php-template) (4 months ago)
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (4 months ago)
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (5 months ago)
