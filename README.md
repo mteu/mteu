@@ -10,15 +10,11 @@ collaboration and strive for measurable code quality.
 #### 📦 Standalone Packages
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
 
-#### 🏗️ Project Builder
-
-- [`CPS-IT/project-builder`](https://github.com/CPS-IT/project-builder)
-- [`CPS-IT/typo3-project-template`](https://github.com/CPS-IT/typo3-project-template)
-
 #### 👷 Recent Contributions
 
 
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (today)
+- [`CycloneDX/tool-center`](https://github.com/CycloneDX/tool-center) (today)
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (4 days ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (4 days ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (2 weeks ago)
@@ -27,7 +23,6 @@ collaboration and strive for measurable code quality.
 - [`mteu/zealous-stan`](https://github.com/mteu/zealous-stan) (5 months ago)
 - [`mteu/typo3-stream-writer`](https://github.com/mteu/typo3-stream-writer) (6 months ago)
 - [`shrugify/localhost`](https://github.com/shrugify/localhost) (7 months ago)
-- [`eliashaeussler/version-bumper`](https://github.com/eliashaeussler/version-bumper) (9 months ago)
 
 #### 📫 Get in touch!
 
