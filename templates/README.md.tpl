@@ -10,11 +10,6 @@ collaboration and strive for measurable code quality.
 #### 📦 Standalone Packages
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
 
-#### 🏗️ Project Builder
-
-- [`CPS-IT/project-builder`](https://github.com/CPS-IT/project-builder)
-- [`CPS-IT/typo3-project-template`](https://github.com/CPS-IT/typo3-project-template)
-
 #### 👷 Recent Contributions
 
 {{range recentContributions 10}}
