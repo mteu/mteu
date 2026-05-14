@@ -12,7 +12,7 @@ collaboration and strive for measurable code quality.
 
 #### 👷 Recent Contributions
 
-{{range recentContributions 10}}
+{{range recentContributions 6}}
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
