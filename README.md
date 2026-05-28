@@ -7,13 +7,13 @@ collaboration and strive for measurable code quality.
 - [`EXT:monitoring`](https://github.com/mteu/typo3-monitoring) - _Exposes health state information of selected components in your TYPO3 instance_
 - [`EXT:typed_extconf`](https://github.com/mteu/typo3-typed-extconf) - _Helper package to retrieve type-safe values from your Extension Settings_
 
-#### 📦 Standalone Packages
+#### 📦 Libraries
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
 
 #### 👷 Recent Contributions
 
 
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 day ago)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (today)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (1 day ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (2 days ago)
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (3 days ago)
