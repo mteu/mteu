@@ -19,6 +19,7 @@ collaboration and strive for measurable code quality.
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (2 days ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (3 days ago)
 - [`CycloneDX/tool-center`](https://github.com/CycloneDX/tool-center) (2 weeks ago)
+- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (1 month ago)
 
 #### 📫 Get in touch!
 
