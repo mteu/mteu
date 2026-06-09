@@ -14,7 +14,7 @@ collaboration and strive for measurable code quality.
 
 
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (today)
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 day ago)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (today)
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (4 days ago)
 - [`ochorocho/typo3-frankenphp`](https://github.com/ochorocho/typo3-frankenphp) (1 week ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (1 week ago)
