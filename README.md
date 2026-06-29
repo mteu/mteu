@@ -13,13 +13,13 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
+- [`konradmichalik/ddev-typo3-multi-version-extension`](https://github.com/konradmichalik/ddev-typo3-multi-version-extension) (today)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (today)
+- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (2 weeks ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (2 weeks ago)
 - [`ochorocho/typo3-frankenphp`](https://github.com/ochorocho/typo3-frankenphp) (1 month ago)
 - [`CycloneDX/tool-center`](https://github.com/CycloneDX/tool-center) (1 month ago)
-- [`mteu/docblock-rules`](https://github.com/mteu/docblock-rules) (2 months ago)
 
 #### 📫 Get in touch!
 
