@@ -13,11 +13,11 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (today)
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 day ago)
-- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (2 weeks ago)
-- [`eliashaeussler/cache-warmup`](https://github.com/eliashaeussler/cache-warmup) (2 weeks ago)
+- [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (1 day ago)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (2 days ago)
 - [`konradmichalik/ddev-typo3-multi-version-extension`](https://github.com/konradmichalik/ddev-typo3-multi-version-extension) (2 weeks ago)
+- [`eliashaeussler/cache-warmup`](https://github.com/eliashaeussler/cache-warmup) (2 weeks ago)
+- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (2 weeks ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (1 month ago)
 - [`ochorocho/typo3-frankenphp`](https://github.com/ochorocho/typo3-frankenphp) (1 month ago)
 
