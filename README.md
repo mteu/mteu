@@ -10,18 +10,18 @@ collaboration and strive for measurable code quality.
 
 #### 📦 Libraries
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
-- [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) - _Matches installed packages against security advisories from Packagist, OSV, and NVD_
+ 
 
 #### 👷 Recent Contributions
 
 
-- [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) (today)
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 day ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (1 week ago)
 - [`mteu/typo3-monitoring-solr`](https://github.com/mteu/typo3-monitoring-solr) (2 weeks ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (3 weeks ago)
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (2 months ago)
 - [`konradmichalik/ddev-typo3-multi-version-extension`](https://github.com/konradmichalik/ddev-typo3-multi-version-extension) (3 months ago)
+- [`eliashaeussler/cache-warmup`](https://github.com/eliashaeussler/cache-warmup) (3 months ago)
 
 #### 📫 Get in touch!
 
