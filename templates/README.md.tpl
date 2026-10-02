@@ -10,7 +10,7 @@ collaboration and strive for measurable code quality.
 
 #### 📦 Libraries
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
-- ['mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) - _Matches installed packages against security advisories from Packagist, OSV, and NVD_
+- [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) - _Matches installed packages against security advisories from Packagist, OSV, and NVD_
 
 #### 👷 Recent Contributions
 
