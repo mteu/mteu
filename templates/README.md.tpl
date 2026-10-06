@@ -6,11 +6,11 @@ collaboration and strive for measurable code quality.
 #### 🧡 TYPO3 Extensions
 - [`EXT:typed_extconf`](https://github.com/mteu/typo3-typed-extconf) - _Helper package to retrieve type-safe values from your Extension Settings_
 - [`EXT:monitoring`](https://github.com/mteu/typo3-monitoring) - _Exposes health state information of selected components in your TYPO3 instance_
-- [`EXT:monitoring_solr`](https://github.com/mteu/typo3-monitoring-solr) - _Reports the health of the Apache Solr connections configured derived from EXT:solr_
+- [`EXT:monitoring_solr`](https://github.com/mteu/typo3-monitoring-solr) - _Reports the health of the Apache Solr connections configured in EXT:solr_
 
 #### 📦 Libraries
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
-<!-- - [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) - _Matches installed packages against security advisories from Packagist, OSV, and NVD_ --> 
+- [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) - _Matches installed packages against security advisories from Packagist, OSV, and NVD_
 
 #### 👷 Recent Contributions
 
