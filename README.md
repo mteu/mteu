@@ -15,11 +15,11 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) (1 day ago)
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 day ago)
+- [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) (2 days ago)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (2 days ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (1 week ago)
-- [`mteu/typo3-monitoring-solr`](https://github.com/mteu/typo3-monitoring-solr) (2 weeks ago)
-- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (3 weeks ago)
+- [`mteu/typo3-monitoring-solr`](https://github.com/mteu/typo3-monitoring-solr) (3 weeks ago)
+- [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (4 weeks ago)
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (2 months ago)
 - [`konradmichalik/ddev-typo3-multi-version-extension`](https://github.com/konradmichalik/ddev-typo3-multi-version-extension) (3 months ago)
 
