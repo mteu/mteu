@@ -9,8 +9,9 @@ collaboration and strive for measurable code quality.
 - [`EXT:monitoring_solr`](https://github.com/mteu/typo3-monitoring-solr) - _Reports the health of the Apache Solr connections configured in EXT:solr_
 
 #### 📦 Libraries
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
+- [`mteu/advisory-assessor`](https://github.com/mteu/advisory-assessor) - _Records triage decisions on security advisory findings as exportable VEX statements_
 - [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) - _Matches installed packages against security advisories from Packagist, OSV, and NVD_
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
 
 #### 👷 Recent Contributions
 
