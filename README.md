@@ -9,19 +9,20 @@ collaboration and strive for measurable code quality.
 - [`EXT:monitoring_solr`](https://github.com/mteu/typo3-monitoring-solr) - _Reports the health of the Apache Solr connections configured in EXT:solr_
 
 #### 📦 Libraries
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
+- [`mteu/advisory-assessor`](https://github.com/mteu/advisory-assessor) - _Records triage decisions on security advisory findings as exportable VEX statements_
 - [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) - _Matches installed packages against security advisories from Packagist, OSV, and NVD_
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
 
 #### 👷 Recent Contributions
 
 
+- [`mteu/advisory-assessor`](https://github.com/mteu/advisory-assessor) (today)
 - [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) (today)
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 week ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (3 weeks ago)
 - [`mteu/typo3-monitoring-solr`](https://github.com/mteu/typo3-monitoring-solr) (4 weeks ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (1 month ago)
 - [`mteu/typo3-monitoring`](https://github.com/mteu/typo3-monitoring) (2 months ago)
-- [`eliashaeussler/cache-warmup`](https://github.com/eliashaeussler/cache-warmup) (3 months ago)
 
 #### 📫 Get in touch!
 
