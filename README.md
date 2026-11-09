@@ -13,6 +13,9 @@ collaboration and strive for measurable code quality.
 - [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) - _Matches installed packages against security advisories from Packagist, OSV, and NVD_
 - [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) - _CycloneDX SBOM parser for PHP_
 
+#### 🤷 Other Stuff
+- [`mteu/typo3-throwback`](https://github.com/mteu/typo3-throwback) - _Run TYPO3 as it was in 2002. Fully containerized._
+
 #### 👷 Recent Contributions
 
 
