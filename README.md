@@ -19,10 +19,10 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/typo3-throwback`](https://github.com/mteu/typo3-throwback) (2 days ago)
+- [`mteu/typo3-throwback`](https://github.com/mteu/typo3-throwback) (3 days ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (1 week ago)
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 week ago)
-- [`mteu/advisory-assessor`](https://github.com/mteu/advisory-assessor) (1 week ago)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (2 weeks ago)
+- [`mteu/advisory-assessor`](https://github.com/mteu/advisory-assessor) (2 weeks ago)
 - [`mteu/advisory-matcher`](https://github.com/mteu/advisory-matcher) (2 weeks ago)
 - [`mteu/typo3-monitoring-solr`](https://github.com/mteu/typo3-monitoring-solr) (1 month ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (2 months ago)
