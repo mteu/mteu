@@ -19,8 +19,8 @@ collaboration and strive for measurable code quality.
 #### 👷 Recent Contributions
 
 
-- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (today)
-- [`mteu/typo3-throwback`](https://github.com/mteu/typo3-throwback) (today)
+- [`mteu/sbom-parser`](https://github.com/mteu/sbom-parser) (1 day ago)
+- [`mteu/typo3-throwback`](https://github.com/mteu/typo3-throwback) (1 day ago)
 - [`mteu/typo3-typed-extconf`](https://github.com/mteu/typo3-typed-extconf) (1 week ago)
 - [`mteu/renovate-configuration`](https://github.com/mteu/renovate-configuration) (2 weeks ago)
 - [`mteu/advisory-assessor`](https://github.com/mteu/advisory-assessor) (3 weeks ago)
